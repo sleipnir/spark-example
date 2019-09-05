@@ -8,7 +8,7 @@
 	<properties>
 	  <!-- Java 8 e Lambdas -->
 	  <!-- <sparky.version>2.0.0</sparky.version> -->
-	  <sparky.version>1.0</sparky.version>
+	  <sparky.version>2.8.0</sparky.version>
 	</properties>
 
 	<dependencies>
